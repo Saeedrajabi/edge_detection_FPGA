@@ -1,6 +1,6 @@
 # 💡 Hardware-Based Multilayer Perceptron (MLP) in VHDL
 
-Welcome to this VHDL implementation of a **Multilayer Perceptron (MLP)** — an essential component of neural network models — developed from scratch using the hardware description language VHDL. 🧠💻✨
+Welcome to this VHDL implementation of a **Multilayer Perceptron (MLP)** — an essential component of neural network models — developed from scratch using the hardware description language VHDL.
 
 ## Project Overview
 
